@@ -15,4 +15,4 @@ Launching instructions:
 -----------------------
 
 1. Open terminal and traverse to folder where LlamaCalculator.java is located
-2. Compile & run LlamaCalculator.java to see output based on the parameters you set in the source for amount of iterations
+2. Compile & run LlamaCalculator.java to see output based on the parameters you set in the source for amount of iterations and the desired proximity between the llamas
